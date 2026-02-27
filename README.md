@@ -1,9 +1,9 @@
-# Orders-Data-Analysis
+# Sales Data ETL and SQL Analytics Pipeline
 ## Project Overview
 
 
 
-**Project Title**: Orders-Data-Analysis   
+**Project Title**: Sales Data ETL and SQL Analytics Pipeline   
 **Database**: `sales_discount`
 
 This project focuses on analyzing sales performance, discounts, and order trends using real-world order data.
