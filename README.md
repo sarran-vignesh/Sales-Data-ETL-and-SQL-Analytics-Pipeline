@@ -36,7 +36,7 @@ The main goal of this project is to **analyze sales and order data to gain insig
 The analysis involved two main phases: 
 ## Data Preparation using Python and Data Analysis using SQL:
 
-**1. Data Preparation (Python - sales_discounts.ipynb)** - 
+**1. Data Preparation (Python - ETL pipe lineusing Pandas.ipynb)** - 
 The Python script used the pandas library to clean and transform the raw data before loading it into the database.
 
 
