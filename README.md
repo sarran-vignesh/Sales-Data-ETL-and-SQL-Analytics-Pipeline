@@ -1,4 +1,4 @@
-#Sales Data ETL and SQL Analytics Pipeline
+# Sales Data ETL and SQL Analytics Pipeline
 ## Project Overview
 
 
